@@ -29,7 +29,7 @@ body,html{
     overflow-x:hidden}
 
 body{
-    background: url(../img/\(Circle\ One\ -\ Landing\ Page\ -\ Background\).png);
+    background: url(../img/Background.png) ;
     background-position: center;
     background-size: auto;
 }
